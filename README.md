@@ -27,7 +27,7 @@ My journey started with **Minecraft** and **game modding**, and now I build:
 | [PetExpeditions](https://github.com/Thanlysito/PetExpeditions) | Pets go on timed expeditions for loot, with levels, rarities and custom pets (Paper 1.21) |
 | [ThanlyTPA](https://github.com/Thanlysito/ThanlyTPA) | TPA with player-head menus and clickable chat buttons (Paper 1.21) |
 | [Trove Builder](https://trovebuilder.me) | Character/build planner for the game Trove (Django) |
-| Tiny Quests Advisor | Trove mod that helps you pick the best allies for Tiny Quests |
+| [Tiny Quests Advisor](https://trovesaurus.com/mod=11867) | Trove mod that helps you pick the best allies for Tiny Quests |
 
 ## 🛠️ Tech Stack
 <p align="center">
