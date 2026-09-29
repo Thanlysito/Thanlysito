@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=Thanly&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Juan+Jos%C3%A9+(Thanly);Minecraft+Plugin+Developer;Game+modding+%26+web+apps">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Juan+Jos%C3%A9+(Thanly);Minecraft+Plugin+Developer;Game+modding+%26+web+apps">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanly;Minecraft+Plugin+Developer;Game+modding+%26+web+apps">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Thanly;Minecraft+Plugin+Developer;Game+modding+%26+web+apps">
   </picture>
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-Hi! I'm **Juan José (Thanly)**, a developer from **Colombia** 🇨🇴 studying **Systems Engineering**.
+Hi! I'm **Thanly**, a developer from **Colombia** 🇨🇴 studying **Systems Engineering**.
 
 My journey started with **Minecraft** and **game modding**, and now I build:
 - **Minecraft plugins** in **Java** (Paper/Spigot)
@@ -40,4 +40,4 @@ My journey started with **Minecraft** and **game modding**, and now I build:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanlysito&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
