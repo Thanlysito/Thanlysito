@@ -30,6 +30,7 @@ My journey started with **Minecraft** and **game modding**, and now I build:
 | [Tiny Quests Advisor](https://trovesaurus.com/mod=11867) | Trove mod that helps you pick the best allies for Tiny Quests |
 | [Friends Last Seen](https://trove.aallyn.net/mods/thanly/friends-last-seen) | Trove mod that shows when each offline friend was last online |
 | [FluxLab](https://github.com/Thanlysito/FluxLab) | Farming tracker for Trove: in-game mod + web stats per hour (Django) |
+| [HCF Wrapped](https://github.com/Thanlysito/HCFWrapped) | "Spotify Wrapped" for HCF maps: season stats, GUI menu and a shareable Discord card (Spigot 1.8.8) |
 
 ## 🛠️ Tech Stack
 <p align="center">
