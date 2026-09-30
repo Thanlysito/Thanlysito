@@ -28,6 +28,8 @@ My journey started with **Minecraft** and **game modding**, and now I build:
 | [ThanlyTPA](https://github.com/Thanlysito/ThanlyTPA) | TPA with player-head menus and clickable chat buttons (Paper 1.21) |
 | [Trove Builder](https://trovebuilder.me) | Character/build planner for the game Trove (Django) |
 | [Tiny Quests Advisor](https://trovesaurus.com/mod=11867) | Trove mod that helps you pick the best allies for Tiny Quests |
+| [Friends Last Seen](https://trove.aallyn.net/mods/thanly/friends-last-seen) | Trove mod that shows when each offline friend was last online |
+| [FluxLab](https://github.com/Thanlysito/FluxLab) | Farming tracker for Trove: in-game mod + web stats per hour (Django) |
 
 ## 🛠️ Tech Stack
 <p align="center">
